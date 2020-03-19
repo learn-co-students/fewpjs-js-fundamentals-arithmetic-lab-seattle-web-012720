@@ -1,2 +1,10 @@
+let num1 = 62;
+let num2 = 1;
 
-// Write your code here
+let multiply = num1 * num2;
+
+let random = Math.random();
+
+let mod = 14 % 10;
+
+let max = Math.max(1, 20);
